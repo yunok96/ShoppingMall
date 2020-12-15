@@ -1,0 +1,30 @@
+header{
+    display: flex;
+}
+header ul li{
+    border: 1px solid red;
+    flex: 1;
+}
+div.main{
+    display: flex;
+}
+#one{
+    height: 100px;
+    width: 100px;
+    background-color: #FFBC42;
+}
+#two{
+    height: 100px;
+    width: 100px;
+    background-color: #D81159;
+}
+#three{
+    height: 100px;
+    width: 100px;
+    background-color: #8F2D56;
+}
+#four{
+    height: 100px;
+    width: 100px;
+    background-color: #218380;
+}
